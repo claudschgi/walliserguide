@@ -1,0 +1,14 @@
+@import 'Reset';
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@400;700&display=swap');
+
+
+$s-bg-color : #1C1C1C;
+
+body {
+  background-color: #000;
+  margin: 0;
+  font-family: 'Jost', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
