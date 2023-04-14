@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "./static/css/main.073c9b0a.css",
-    "main.js": "./static/js/main.567c598b.js",
+    "main.css": "./static/css/main.321752b2.css",
+    "main.js": "./static/js/main.5e54c1fe.js",
     "static/js/787.9181411e.chunk.js": "./static/js/787.9181411e.chunk.js",
-    "static/media/logo.svg": "./static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/text-walliserguide.svg": "./static/media/text-walliserguide.76e35efe8260b7c506e2611e2618ba41.svg",
+    "static/media/icon-walliserguide.svg": "./static/media/icon-walliserguide.371fb4231615e4b5c13c79b18102cf6c.svg",
     "index.html": "./index.html",
-    "main.073c9b0a.css.map": "./static/css/main.073c9b0a.css.map",
-    "main.567c598b.js.map": "./static/js/main.567c598b.js.map",
+    "main.321752b2.css.map": "./static/css/main.321752b2.css.map",
+    "main.5e54c1fe.js.map": "./static/js/main.5e54c1fe.js.map",
     "787.9181411e.chunk.js.map": "./static/js/787.9181411e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.567c598b.js"
+    "static/css/main.321752b2.css",
+    "static/js/main.5e54c1fe.js"
   ]
 }
