@@ -1,17 +1,22 @@
 {
   "files": {
-    "main.css": "./static/css/main.321752b2.css",
-    "main.js": "./static/js/main.5e54c1fe.js",
+    "main.css": "./static/css/main.30da9e06.css",
+    "main.js": "./static/js/main.0e752691.js",
     "static/js/787.9181411e.chunk.js": "./static/js/787.9181411e.chunk.js",
     "static/media/text-walliserguide.svg": "./static/media/text-walliserguide.76e35efe8260b7c506e2611e2618ba41.svg",
     "static/media/icon-walliserguide.svg": "./static/media/icon-walliserguide.371fb4231615e4b5c13c79b18102cf6c.svg",
+    "static/media/icon-instagram-black.svg": "./static/media/icon-instagram-black.af15c883c8f9bc24ee23.svg",
     "index.html": "./index.html",
-    "main.321752b2.css.map": "./static/css/main.321752b2.css.map",
-    "main.5e54c1fe.js.map": "./static/js/main.5e54c1fe.js.map",
+    "static/media/icon-link-black.svg": "./static/media/icon-link-black.f0cd94af5926e6820a00.svg",
+    "static/media/icon-tiktok-black.svg": "./static/media/icon-tiktok-black.d470f8ddfab107d2dfd7.svg",
+    "static/media/icon-youtube-black.svg": "./static/media/icon-youtube-black.385fbb025132c815b9e2.svg",
+    "static/media/arrow-right-black.svg": "./static/media/arrow-right-black.f284af0fccff57478b4f.svg",
+    "main.30da9e06.css.map": "./static/css/main.30da9e06.css.map",
+    "main.0e752691.js.map": "./static/js/main.0e752691.js.map",
     "787.9181411e.chunk.js.map": "./static/js/787.9181411e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.321752b2.css",
-    "static/js/main.5e54c1fe.js"
+    "static/css/main.30da9e06.css",
+    "static/js/main.0e752691.js"
   ]
 }

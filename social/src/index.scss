@@ -1,15 +1,17 @@
 @import 'Reset';
 @import 'variables';
-@import url('https://fonts.googleapis.com/css2?family=Jost:wght@400;700&display=swap');
-
-
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@400;600&display=swap');
 
 
 body {
   background-color: #000;
+  font-size: 18px;
+  line-height: (28/18);
+  color: white;
   margin: 0;
   font-family: 'Jost', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
+@import 'App';
